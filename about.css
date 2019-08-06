@@ -1,0 +1,18 @@
+	.bodywrapper
+{
+    display: table;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/goodwp.com_32840.jpg');
+    background-position: center top;
+    height: 755px;
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+p
+{
+	text-align: justify;
+}
